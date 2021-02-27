@@ -1,11 +1,7 @@
-# exploratory_data_analysis
-Exploratory Analysis - MovieLens 20M DataSet
 
-# movies_Recommender_System
-Movies Recomender System with Apache Spark 2
+## Exploratory Data Analysis with Python
 
-About this Dataset
-Context
+### MovieLens 20M DataSet
 
 The datasets describe ratings and free-text tagging activities from MovieLens, a movie recommendation service. It contains 20000263 ratings and 465564 tag applications across 27278 movies. These data were created by 138493 users between January 09, 1995 and March 31, 2015. This dataset was generated on October 17, 2016.
 
